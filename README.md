@@ -38,11 +38,12 @@ This project has three major parts :
   
   9. fit the model to train and test data and predict the results 
   
-  10. Outputs
-  
-  
-  
-  
-  
   10. Subtracting the predicted and given values and finding out the model accuracy 
+ #Predicted-Given value o/p (Bell Curve)
+ ![car prediction](https://user-images.githubusercontent.com/70466481/91657079-eb9e9f00-eadb-11ea-9766-f5609edca673.png)
+ 
+ #Scatter plot
+ ![car scatter](https://user-images.githubusercontent.com/70466481/91657080-eccfcc00-eadb-11ea-90fd-164f830517f2.png)
+
+ 
   
