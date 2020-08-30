@@ -23,7 +23,8 @@ This project has three major parts :
   4. Going on with one-hot-encoding as their are categorical data 
   
   5. Finding the correlation and multicollinearity using pairplot and heatmap
-      ![Alt Text](C:\Users\koush\OneDrive\Desktop\github images)
+      ![car pairplot](https://user-images.githubusercontent.com/70466481/91656915-4c2cdc80-eada-11ea-91c6-df8764608a94.png)
+
       
   6. Creating a train and test split of the data for training the model and again testing the model with useen data(test data)
   
