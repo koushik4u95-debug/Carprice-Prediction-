@@ -31,12 +31,18 @@ This project has three major parts :
   6. Creating a train and test split of the data for training the model and again testing the model with useen data(test data)
   
   7. Moving on hyperparameter tunning with randomgrid cv.
-  
-  
-  
+       
   8. Searching the best parameters with 3 fold cross validation
   
+  ![random search](https://user-images.githubusercontent.com/70466481/91657027-792dbf00-eadb-11ea-98e9-2a53cdb5f976.png)
+  
   9. fit the model to train and test data and predict the results 
+  
+  10. Outputs
+  
+  
+  
+  
   
   10. Subtracting the predicted and given values and finding out the model accuracy 
   
