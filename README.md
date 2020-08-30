@@ -4,14 +4,14 @@ Predicting the car price using ML techiques with CarDehko Data
 
 This project has three major parts :
 
-    1.app.py - This contains Flask APIs that receives car details through GUI or API calls, computes the precited value based on our model and returns it.
-    2.random_forest_regression_model.pkl - module is used for serializing and de-serializing python object structures 
-    3.requirements.txt - This text file contains the packages needed to run the model 
-    4.Deployment - Heroko cloud platform used 
+1.app.py - This contains Flask APIs that receives car details through GUI or API calls, computes the precited value based on our model and returns it.
+2.random_forest_regression_model.pkl - module is used for serializing and de-serializing python object structures 
+3.requirements.txt - This text file contains the packages needed to run the model 
+4.Deployment - Heroko cloud platform used 
     
- #Following are the steps involved in buiding a stable model 
+ # Following are the steps involved in buiding a stable model 
   
-    1. Importing the data
+  1. Importing the data
     2. Data preprocessing 
     3. Handling the missing values if any 
     4. Going on with one-hot-encoding as their are categorical data 
